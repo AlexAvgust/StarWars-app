@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7b157fb.css",
-    "main.js": "/static/js/main.4775792b.js",
-    "static/media/360_F_102884000_9nDhPvgQwwaNgDWbAwUJVR0puNDOMYhL.png": "/static/media/360_F_102884000_9nDhPvgQwwaNgDWbAwUJVR0puNDOMYhL.a67214df0dca0bb2a4e9.png",
-    "index.html": "/index.html",
-    "main.c7b157fb.css.map": "/static/css/main.c7b157fb.css.map",
-    "main.4775792b.js.map": "/static/js/main.4775792b.js.map"
+    "main.css": "/StarWars-app/static/css/main.b9e473ae.css",
+    "main.js": "/StarWars-app/static/js/main.4775792b.js",
+    "static/media/360_F_102884000_9nDhPvgQwwaNgDWbAwUJVR0puNDOMYhL.png": "/StarWars-app/static/media/360_F_102884000_9nDhPvgQwwaNgDWbAwUJVR0puNDOMYhL.a67214df0dca0bb2a4e9.png",
+    "index.html": "/StarWars-app/index.html",
+    "main.b9e473ae.css.map": "/StarWars-app/static/css/main.b9e473ae.css.map",
+    "main.4775792b.js.map": "/StarWars-app/static/js/main.4775792b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7b157fb.css",
+    "static/css/main.b9e473ae.css",
     "static/js/main.4775792b.js"
   ]
 }
